@@ -4,4 +4,4 @@ scripts tools
   python mastrix.py -Sdevication /home/data.log
   python test.py -devication  /home/data.log
   python test.py -Fmatrix  /home/data.log
-  Sdevication 标准差变换；devication 极差变换；Fmatrix 模糊矩阵；data.log输入矩阵，以逗号分隔元素
+  Sdevication Standard deviation transformation；devication range transform；Fmatrix fuzzy matrix；data.log input matrix，split for ","
